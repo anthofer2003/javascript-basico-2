@@ -33,3 +33,4 @@
                 debugger; //para la ejecucion en esta linea
                 console.log(arreglo[i]);
             }
+            
