@@ -1,4 +1,4 @@
-// esto es un comentario
+ // esto es un comentario
         /*
             había una vez tres cerditos,
             que estaban programando un codiguito
@@ -33,4 +33,3 @@
                 debugger; //para la ejecucion en esta linea
                 console.log(arreglo[i]);
             }
-            
